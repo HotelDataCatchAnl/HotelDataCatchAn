@@ -1,0 +1,18 @@
+一般正常操作
+项目刚开始（只执行一次）
+第一步:初始化仓库 git init
+第二步：连接远程仓库：git remote add origin "远程仓库地址"
+
+项目开始后：
+拉取远程仓库的最新内容到本地仓库：git pull origin master
+提交修改(全部修改)至缓存区：git add .
+提交缓存区的内容到历史区：git commit -m "提交说明的内容"
+推送历史区的内容到远程仓库：git push origin master
+
+
+分支操作：
+创建分支：git branch "分支名"
+分支切换：git checkout 分支名
+把xxx分支的历史信息合并到当前分支下：git merge xxx 
+git stash / $ git stash pop 在切换分支的时候，有一部分信息并没有提交成为例时版本，
+为了防止信息的丢失，我们需要先使用stash保存，然后再基于stash pop 还原
