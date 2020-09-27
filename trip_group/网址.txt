@@ -1,0 +1,7 @@
+
+['广州', 'https://hotels.ctrip.com/hotel/guangzhou32#ctm_ref=hod_hp_sb_lst']
+['深圳', 'https://hotels.ctrip.com/hotel/shenzhen30#ctm_ref=hod_hp_sb_lst']
+['珠海', 'https://hotels.ctrip.com/hotel/zhuhai31#ctm_ref=hod_hp_sb_lst']
+['佛山', 'https://hotels.ctrip.com/hotel/foshan251#ctm_ref=hod_hp_sb_lst']
+['东莞', 'https://hotels.ctrip.com/hotel/dongguan223#ctm_ref=hod_hp_sb_lst']
+
